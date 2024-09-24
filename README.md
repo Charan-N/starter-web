@@ -1,7 +1,10 @@
 # Starter Web Repo
 
-## Line Changed as test to understand README
-
 ### Purpose
 
 Done as a part of Understanding GIT course
+
+### Updates to test
+Just updating to test
+
+### Understanding Working Directory and staging area
