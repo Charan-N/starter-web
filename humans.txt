@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Charan	abc@mail.com	@useridtwitter
 
 # THANKS
 
