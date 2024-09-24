@@ -9,5 +9,7 @@ Just updating to test
 
 ### Understanding Working Directory and staging area
 
+### MErge test commands
+
 ### Copyright
 Copyright 2024
