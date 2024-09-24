@@ -8,3 +8,6 @@ Done as a part of Understanding GIT course
 Just updating to test
 
 ### Understanding Working Directory and staging area
+
+### Copyright
+Copyright 2024
