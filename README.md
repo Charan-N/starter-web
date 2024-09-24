@@ -1,15 +1,8 @@
 # Starter Web Repo
 
-### Purpose
+## Purpose
 
-Done as a part of Understanding GIT course
+Dummy repository (ab)used to understand .git functions, as a part of [Understanding Git Course](https://www.udemy.com/course/git-complete/)
 
-### Updates to test
-Just updating to test
+More about this [here](https://github.com/Charan-N/github-demo)
 
-### Understanding Working Directory and staging area
-
-### MErge test commands
-
-### Copyright
-Copyright 2024
